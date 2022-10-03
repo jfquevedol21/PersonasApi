@@ -1,0 +1,14 @@
+C:\Users\Fer\Desktop\PersonasAPI\PersonasAPI.DAL\bin\Debug\net6.0\PersonasAPI.DAL.deps.json
+C:\Users\Fer\Desktop\PersonasAPI\PersonasAPI.DAL\bin\Debug\net6.0\PersonasAPI.DAL.runtimeconfig.json
+C:\Users\Fer\Desktop\PersonasAPI\PersonasAPI.DAL\bin\Debug\net6.0\PersonasAPI.DAL.dll
+C:\Users\Fer\Desktop\PersonasAPI\PersonasAPI.DAL\bin\Debug\net6.0\PersonasAPI.DAL.pdb
+C:\Users\Fer\Desktop\PersonasAPI\PersonasAPI.DAL\obj\Debug\net6.0\PersonasAPI.DAL.csproj.AssemblyReference.cache
+C:\Users\Fer\Desktop\PersonasAPI\PersonasAPI.DAL\obj\Debug\net6.0\PersonasAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fer\Desktop\PersonasAPI\PersonasAPI.DAL\obj\Debug\net6.0\PersonasAPI.DAL.AssemblyInfoInputs.cache
+C:\Users\Fer\Desktop\PersonasAPI\PersonasAPI.DAL\obj\Debug\net6.0\PersonasAPI.DAL.AssemblyInfo.cs
+C:\Users\Fer\Desktop\PersonasAPI\PersonasAPI.DAL\obj\Debug\net6.0\PersonasAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\PersonasAPI\PersonasAPI.DAL\obj\Debug\net6.0\PersonasAPI.DAL.dll
+C:\Users\Fer\Desktop\PersonasAPI\PersonasAPI.DAL\obj\Debug\net6.0\refint\PersonasAPI.DAL.dll
+C:\Users\Fer\Desktop\PersonasAPI\PersonasAPI.DAL\obj\Debug\net6.0\PersonasAPI.DAL.pdb
+C:\Users\Fer\Desktop\PersonasAPI\PersonasAPI.DAL\obj\Debug\net6.0\PersonasAPI.DAL.genruntimeconfig.cache
+C:\Users\Fer\Desktop\PersonasAPI\PersonasAPI.DAL\obj\Debug\net6.0\ref\PersonasAPI.DAL.dll
